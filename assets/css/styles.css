@@ -5,13 +5,23 @@
 }
 
 :root{
-    --tokens: #f3ea60;
+    /* Paleta 1 */
+    /* --tokens: #f3ea60;
     --tokenShadow: #b96453;
     --tokenText: #754d26;
     --background: #da7ff2;
     --btnBackground: #3edaf1;
     --btnShadow: #0885da;
-    --btnText: #135fb5;
+    --btnText: #135fb5; */
+
+    /* Paleta 2 */
+    --tokens: #FB9833;
+    --tokenShadow: #b96453;
+    --tokenText: #FCEFEF;
+    --background: #012538;
+    --btnBackground: #1B768E;
+    --btnShadow: #3edaf1;
+    --btnText: #FCEFEF;
 }
 
 body{
